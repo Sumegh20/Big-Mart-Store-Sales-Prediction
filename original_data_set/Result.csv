@@ -1,0 +1,16 @@
+Model_Name,Adjusted_R2_Train,Adjusted_R2_Test,Parameters
+Linear Regression,0.6841759581956044,0.6968252845245605,default
+Lasso Regression,0.6839008732908944,0.6968011548837933,{'alpha=0.0022585545248758956'}
+Ridge Regression,0.6841237126960896,0.6966871306076663,{'alpha = 2.0'}
+Decision Tree Regressor,0.725268595710178,0.6909790894907225,"{'max_depth=8, min_samples_leaf=9, min_samples_split=28'}"
+Random Forest Regressor,0.7250138330066429,0.690669662357348,"{'min_samples_split=30, min_samples_leaf=10, max_features=auto, max_depth=8'}"
+KNN Regressor,0.7338470185990111,0.6185402483484417,"{'weights=uniform, algorithm=auto, leaf_size=20'}"
+Bag Linear Regression,0.6841649557722969,0.6967529731343911,default
+Bag Decision Tree Regressor,0.9517440396873602,0.6666030264297231,default
+Bag KNN Regressor,0.7480568071341402,0.6332074496690336,default
+Gradient Boosting,0.7197796563604314,0.7072471350461815,default
+Gradient Boosting,0.7317088408507733,0.705169579149955,"{'n_estimators=50, max_leaf_nodes=20, max_depth=8, learning_rate=0.1'}"
+Gradient Boosting,0.7135751514785527,0.7098985823141943,"{'n_estimators=50, max_leaf_nodes=20, max_depth=8, learning_rate=0.1'}"
+XGBRegressor,0.7215904104530789,0.698139524514559,default
+XGBRegressor,0.7108254473858544,0.7082126460094407,"{'objective=reg:linear,n_estimators = 20, min_child_weight=75, booster=gbtree, seed = 42'}"
+Cat Boost Regressor,0.7056720291112988,0.7128923363431434,"{'learning_rate=0.05, iterations=155, depth=3'}"

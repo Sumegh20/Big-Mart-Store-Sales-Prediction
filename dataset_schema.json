@@ -1,0 +1,14 @@
+{
+  "columnNumber": 8,
+  "columnNames": ["Item_Weight", "Item_Fat_Content", "Item_Type", "Item_MRP", "Outlet_Size", "Outlet_Location_Type",
+                  "Outlet_Type", "Outlet_Establishment_Year"],
+  "NumericalColumns": ["Item_Weight", "Item_MRP", "Outlet_Establishment_Year"],
+  "CategoricalColumns": ["Item_Fat_Content", "Item_Type", "Outlet_Size", "Outlet_Location_Type", "Outlet_Type"],
+  "Item_Fat_Content": ["regular", "low fat"],
+  "Item_Type": ["dairy", "soft drinks", "meat", "fruits and vegetables", "household", "baking goods", "snack foods",
+                "frozen foods", "breakfast", "health and hygiene", "hard drinks", "canned", "breads", "starchy foods",
+                "others", "seafood"],
+  "Outlet_Size": ["medium", "small", "high"],
+  "Outlet_Location_Type": ["tier 1", "tier 2", "tier 3", "tier1", "tier2", "tier3"],
+  "Outlet_Type": ["grocery store","supermarket type1", "supermarket type2", "supermarket type3"]
+}

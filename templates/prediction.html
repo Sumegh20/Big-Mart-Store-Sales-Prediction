@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% block title %} Big Mart Store Sales Prediction {% endblock title %}
+
+{% block body %}
+
+<h1 style="text-align:center">  Prediction Page </h1>
+
+<div class="container my-3">
+  <div class="d-grid gap-3 d-md-flex justify-content-md-end">
+    <a href="/download"><button type="button" class="btn btn-danger btn-lg">Download Result</button></a>
+  </div>
+</div>
+
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>#</th>
+        {% for head in result[1] %}
+          <th>{{ head }}</th>
+        {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+  {% for index, data in result[0] %}
+    <tr>
+      <th scope="row">{{index+1}}</th>
+      <td>{{data[0]}}</td>
+      <td>{{data[1]}}</td>
+        <td>{{data[2]}}</td>
+        <td>{{data[3]}}</td>
+        <td>{{data[4]}}</td>
+        <td>{{data[5]}}</td>
+        <td>{{data[6]}}</td>
+        <td>{{data[7]}}</td>
+        <td>{{data[8]}}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+{% endblock body %}

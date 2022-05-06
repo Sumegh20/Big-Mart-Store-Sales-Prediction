@@ -1,0 +1,11 @@
+Item_Identifier,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+FDV26,20.25,Regular,0.076160451,Dairy,196.2794,OUT046,1997,Small,Tier 1,Supermarket Type1,2731.1116
+FDM36,,Regular,0.058446424,Baking Goods,172.1422,OUT027,1985,Medium,Tier 3,Supermarket Type3,5518.1504
+FDH17,16.2,Regular,0.016747538,Frozen Foods,98.6726,OUT017,2007,,Tier 2,Supermarket Type1,1272.3438
+FDX32,15.1,Regular,0.100423086,Fruits and Vegetables,144.7786,OUT017,2007,,Tier 2,Supermarket Type1,2600.6148
+FDF41,12.15,Low Fat,0.131445848,Frozen Foods,246.846,OUT045,2002,,Tier 2,Supermarket Type1,6404.996
+FDA43,10.895,Low Fat,0.064621927,Fruits and Vegetables,196.6794,OUT013,1987,High,Tier 3,Supermarket Type1,1170.4764
+FDH05,14.35,reg,0.091054989,Frozen Foods,231.8984,OUT049,1999,Medium,Tier 1,Supermarket Type1,4633.968
+NCA06,20.5,Low Fat,0.143164371,Household,34.919,OUT013,1987,High,Tier 3,Supermarket Type1,73.238
+FDV23,11.0,Low Fat,0.105816753,Breads,126.0046,OUT035,2004,Small,Tier 2,Supermarket Type1,871.5322
+FDI41,18.5,Regular,0.062245149,Frozen Foods,145.8418,OUT035,2004,Small,Tier 2,Supermarket Type1,5591.3884

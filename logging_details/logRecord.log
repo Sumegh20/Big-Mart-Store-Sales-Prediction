@@ -1,0 +1,418 @@
+04/05/2022  07:21:40 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:22:12 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::read_csv() got an unexpected keyword argument 'index'
+04/05/2022  07:23:58 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:24:28 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::read_csv() got an unexpected keyword argument 'index'
+04/05/2022  07:25:39 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:26:16 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::Encountered unknown tag 'endblock'.
+04/05/2022  07:32:02 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:32:40 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::read_csv() got an unexpected keyword argument 'index'
+04/05/2022  07:37:34 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:38:20 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::Encountered unknown tag 'endblock'.
+04/05/2022  07:41:25 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:41:42 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::Encountered unknown tag 'endblock'.
+04/05/2022  07:42:09 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:42:11 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (homePage) ::Encountered unknown tag 'end'. Jinja was looking for the following tags: 'endblock'. The innermost block that needs to be closed is 'block'.
+04/05/2022  07:45:43 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:46:10 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::'result' is undefined
+04/05/2022  07:50:10 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:50:30 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::'result' is undefined
+04/05/2022  07:56:18 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:56:38 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::Encountered unknown tag 'data'. Jinja was looking for the following tags: 'endblock'. The innermost block that needs to be closed is 'block'.
+04/05/2022  07:57:37 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  07:57:57 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) ::'result' is undefined
+04/05/2022  08:05:49 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  08:17:06 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  08:25:56 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  08:33:49 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  08:36:23 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  08:40:23 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  08:48:35 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  08:48:37 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (homePage) ::[WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Files\\input_data.csv'
+04/05/2022  08:50:05 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  09:10:17 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  09:14:22 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  09:15:04 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::No module named 'catboost'
+04/05/2022  09:16:41 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  09:26:45 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  09:28:57 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  09:36:00 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  09:47:22 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  10:02:45 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+04/05/2022  10:04:17 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  01:08:53 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  01:09:09 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  01:09:56 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  01:10:07 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  01:22:33 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  01:22:44 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  01:23:16 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  01:23:25 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  01:23:33 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  01:23:46 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  01:23:54 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  01:32:10 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  01:32:46 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) :: User give the data manually
+05/05/2022  01:32:51 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  01:32:54 AM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::Found unknown categories [nan] in column 0 during transform
+05/05/2022  01:32:54 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  01:32:54 AM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  01:32:54 AM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  01:34:14 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  01:34:43 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) :: User give the data manually
+05/05/2022  01:34:45 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  01:34:46 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  01:34:46 AM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Input contains NaN, infinity or a value too large for dtype('float32').
+05/05/2022  01:34:46 AM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  01:35:42 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (manualDataInput) :: User give the data manually
+05/05/2022  01:35:43 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  01:35:43 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  02:01:44 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  02:02:27 AM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::[Errno 2] No such file or directory: 'Prediction_Files/Validated_Input_Data.csv'
+05/05/2022  02:07:40 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  02:12:15 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  02:15:08 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  02:15:53 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  02:21:45 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  09:21:01 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  09:22:50 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  09:23:27 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  09:23:27 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\input_data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  09:23:31 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  09:23:43 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  09:31:22 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  09:31:27 AM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::[Errno 2] No such file or directory: 'Prediction_Files/Validated_Input_Data.csv'
+05/05/2022  09:31:43 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  09:31:43 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\input_data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  09:31:47 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  09:31:48 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  09:34:48 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  09:34:59 AM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  09:34:59 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\input_data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  09:35:01 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  09:35:01 AM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  04:57:01 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  04:57:11 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  04:57:11 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\input_data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  04:57:13 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  04:57:18 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  04:57:18 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::No module named 'catboost'
+05/05/2022  04:57:18 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  05:00:57 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  05:01:04 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  05:01:04 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\input_data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  05:01:04 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  05:01:05 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  05:01:05 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::No module named 'catboost'
+05/05/2022  05:01:05 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::No module named 'catboost'
+05/05/2022  05:02:23 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  05:02:31 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  05:02:31 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\input_data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  05:02:31 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  05:02:32 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::No module named 'catboost'
+05/05/2022  05:08:03 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  05:08:11 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  05:08:11 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\input_data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  05:08:12 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  05:38:57 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  05:39:05 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  05:39:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\input_data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  05:39:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  05:39:07 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:12:30 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:12:39 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:12:39 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:12:40 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:12:41 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:16:31 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:16:38 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:16:38 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:16:39 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:16:40 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:16:53 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:16:56 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::[Errno 2] No such file or directory: 'Prediction_Files/Validated_Input_Data.csv'
+05/05/2022  06:16:58 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::[Errno 2] No such file or directory: 'Prediction_Files/Validated_Input_Data.csv'
+05/05/2022  06:18:31 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:18:37 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:18:37 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:18:38 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:18:38 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:18:48 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:19:23 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:19:31 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:21:01 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:21:10 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:21:10 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:21:12 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:21:12 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:21:26 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:21:26 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:21:30 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:21:30 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:21:39 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:21:46 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:21:52 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:21:52 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:52 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:21:57 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:21:57 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (YeartoAge) ::unsupported operand type(s) for -: 'int' and 'str'
+05/05/2022  06:21:57 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (dataTransformation) ::'NoneType' object is not subscriptable
+05/05/2022  06:21:57 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::'NoneType' object is not subscriptable
+05/05/2022  06:21:57 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:21:57 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  06:21:57 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  06:27:32 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:27:43 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:27:43 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:27:45 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:27:45 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:27:55 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:28:07 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:28:07 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:07 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (stringToFloatConversion) ::'str' object has no attribute 'isFloatable'
+05/05/2022  06:28:12 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:28:12 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (YeartoAge) ::unsupported operand type(s) for -: 'int' and 'str'
+05/05/2022  06:28:12 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (dataTransformation) ::'NoneType' object is not subscriptable
+05/05/2022  06:28:12 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::'NoneType' object is not subscriptable
+05/05/2022  06:28:12 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:28:12 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  06:28:12 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  06:34:31 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:34:39 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:34:39 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:34:41 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:34:41 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (YeartoAge) ::unsupported operand type(s) for -: 'int' and 'str'
+05/05/2022  06:34:41 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (dataTransformation) ::'NoneType' object is not subscriptable
+05/05/2022  06:34:41 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::'NoneType' object is not subscriptable
+05/05/2022  06:34:41 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:34:42 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  06:34:42 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  06:43:22 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:43:29 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:43:29 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:43:30 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:43:30 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  06:43:30 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (YeartoAge) ::cannot convert the series to <class 'int'>
+05/05/2022  06:43:30 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  06:43:31 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (dataTransformation) ::'NoneType' object is not subscriptable
+05/05/2022  06:43:31 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  06:43:31 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::'NoneType' object is not subscriptable
+05/05/2022  06:43:31 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:43:31 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  06:43:31 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  06:47:32 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:47:45 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:47:45 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:47:47 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:47:47 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  06:47:47 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (YeartoAge) ::invalid literal for int() with base 10: '[2000,4000]'
+05/05/2022  06:47:47 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  06:47:48 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (dataTransformation) ::'NoneType' object is not subscriptable
+05/05/2022  06:47:48 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  06:47:48 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::'NoneType' object is not subscriptable
+05/05/2022  06:47:48 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:47:48 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  06:47:48 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  06:48:54 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:49:05 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:49:05 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:49:08 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:49:08 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  06:49:08 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  06:49:09 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  06:49:09 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Cetegorical columns are encoded
+05/05/2022  06:49:09 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:52:24 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:52:24 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  06:52:24 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  06:52:24 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  06:52:24 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Cetegorical columns are encoded
+05/05/2022  06:52:24 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:52:31 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:52:31 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:52:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:52:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  06:52:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  06:52:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  06:52:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Cetegorical columns are encoded
+05/05/2022  06:52:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:52:59 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:52:59 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:53:01 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:53:01 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  06:53:01 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  06:53:01 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  06:53:01 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Cetegorical columns are encoded
+05/05/2022  06:53:01 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  06:54:12 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  06:54:19 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  06:54:19 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  06:54:20 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  06:54:20 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  06:54:20 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  06:54:21 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  06:54:21 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Cetegorical columns are encoded
+05/05/2022  06:54:21 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  07:04:44 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  07:04:53 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  07:04:53 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  07:04:53 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Unessential columns are deleted
+05/05/2022  07:04:53 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Convert the elements of string columns into lowercase letter
+05/05/2022  07:04:53 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Numerical columns are checked
+05/05/2022  07:04:53 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Categorical columns are checked
+05/05/2022  07:04:54 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  07:04:54 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  07:04:54 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (YeartoAge) ::invalid literal for int() with base 10: '[2000,4000]'
+05/05/2022  07:04:54 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  07:04:55 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (dataTransformation) ::'NoneType' object is not subscriptable
+05/05/2022  07:04:55 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  07:04:55 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::'NoneType' object is not subscriptable
+05/05/2022  07:04:55 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  07:04:55 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  07:04:55 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  07:07:21 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  07:07:29 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  07:07:29 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  07:07:29 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Unessential columns are deleted
+05/05/2022  07:07:29 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Convert the elements of string columns into lowercase letter
+05/05/2022  07:07:29 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Numerical columns are checked
+05/05/2022  07:07:29 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Categorical columns are checked
+05/05/2022  07:07:30 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  07:07:30 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  07:07:30 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (YeartoAge) ::invalid literal for int() with base 10: '[2000,4000]'
+05/05/2022  07:07:30 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  07:07:31 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (dataTransformation) ::'NoneType' object is not subscriptable
+05/05/2022  07:07:31 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  07:07:31 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::'NoneType' object is not subscriptable
+05/05/2022  07:07:31 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  07:07:31 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  07:07:31 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  08:58:13 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  08:58:33 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  08:58:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  08:58:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Unessential columns are deleted
+05/05/2022  08:58:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Convert the elements of string columns into lowercase letter
+05/05/2022  08:58:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Numerical columns are checked
+05/05/2022  08:58:33 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Categorical columns are checked
+05/05/2022  08:58:34 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  08:58:34 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  08:58:34 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (YeartoAge) ::invalid literal for int() with base 10: '[2000,4000]'
+05/05/2022  08:58:34 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  08:58:36 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (dataTransformation) ::'NoneType' object is not subscriptable
+05/05/2022  08:58:36 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  08:58:36 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::'NoneType' object is not subscriptable
+05/05/2022  08:58:36 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  08:58:36 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  08:58:36 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  09:04:52 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  09:05:08 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  09:05:08 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  09:05:08 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Unessential columns are deleted
+05/05/2022  09:05:08 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Convert the elements of string columns into lowercase letter
+05/05/2022  09:05:08 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Numerical columns are checked
+05/05/2022  09:05:08 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Categorical columns are checked
+05/05/2022  09:05:09 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  09:05:09 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  09:05:09 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (YeartoAge) ::invalid literal for int() with base 10: '[2000,4000]'
+05/05/2022  09:05:09 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  09:05:10 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (dataTransformation) ::'NoneType' object is not subscriptable
+05/05/2022  09:05:10 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  09:05:10 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) ::'NoneType' object is not subscriptable
+05/05/2022  09:05:10 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  09:05:10 PM  [ERROR] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) ::Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+05/05/2022  09:05:10 PM  [ERROR] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (predict) ::'NoneType' object is not iterable
+05/05/2022  09:06:53 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  09:07:02 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  09:07:02 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  09:07:02 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Unessential columns are deleted
+05/05/2022  09:07:02 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Convert the elements of string columns into lowercase letter
+05/05/2022  09:07:02 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Numerical columns are checked
+05/05/2022  09:07:02 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Categorical columns are checked
+05/05/2022  09:07:02 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  09:07:02 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  09:07:02 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  09:07:03 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  09:07:03 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Cetegorical columns are encoded
+05/05/2022  09:07:03 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  09:09:40 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: 
+: app : Application started
+05/05/2022  09:10:18 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  09:10:18 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  09:10:18 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Unessential columns are deleted
+05/05/2022  09:10:18 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Convert the elements of string columns into lowercase letter
+05/05/2022  09:10:18 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Numerical columns are checked
+05/05/2022  09:10:18 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Categorical columns are checked
+05/05/2022  09:11:33 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: 
+: app : Application started
+05/05/2022  09:11:41 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  09:11:41 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  09:11:41 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Unessential columns are deleted
+05/05/2022  09:11:41 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Convert the elements of string columns into lowercase letter
+05/05/2022  09:11:41 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Numerical columns are checked
+05/05/2022  09:11:41 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Categorical columns are checked
+05/05/2022  09:18:38 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: 
+: app : Application started
+05/05/2022  09:18:46 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  09:18:46 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  09:18:46 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Unessential columns are deleted
+05/05/2022  09:18:46 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Convert the elements of string columns into lowercase letter
+05/05/2022  09:18:46 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Numerical columns are checked
+05/05/2022  09:18:46 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Categorical columns are checked
+05/05/2022  09:18:47 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  09:18:47 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  09:18:47 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  09:18:48 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  09:18:48 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Cetegorical columns are encoded
+05/05/2022  09:18:48 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+05/05/2022  09:26:52 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: : app : Application started
+05/05/2022  09:27:06 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (uploadCSVfile) :: User chose to upload data by csv file
+05/05/2022  09:27:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Input dataset validation started
+05/05/2022  09:27:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Unessential columns are deleted
+05/05/2022  09:27:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Convert the elements of string columns into lowercase letter
+05/05/2022  09:27:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Numerical columns are checked
+05/05/2022  09:27:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_validation\validation.py :: (getValidatedInputData) :: Categorical columns are checked
+05/05/2022  09:27:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Preprocessing started
+05/05/2022  09:27:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Missing Values are imputed
+05/05/2022  09:27:06 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Outlet_Establishment_Year is Converted into Outlet_Age
+05/05/2022  09:27:07 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Numerical columns are transformed
+05/05/2022  09:27:07 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_preprocessing\preprocessing.py :: (getPreprocessedData) :: Cetegorical columns are encoded
+05/05/2022  09:27:07 PM  [INFO] - G:\PyCharm\Big-Mart-Store-Sales-Prediction\data_prediction\prediction.py :: (getPrediction) :: Started prediction
+06/05/2022  08:20:09 PM  [INFO] - G:/PyCharm/Big-Mart-Store-Sales-Prediction/app.py :: (app) :: $=============== Application started ===============$
+06/05/2022  08:28:33 PM  [INFO] - app.py :: (app) :: $=============== Application started ===============$

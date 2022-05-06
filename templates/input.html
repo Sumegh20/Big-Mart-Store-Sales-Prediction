@@ -1,0 +1,109 @@
+{% extends 'base.html' %}
+{% block title %} Big Mart Store Sales Prediction {% endblock title %}
+
+{% block body %}
+    <h1 style="text-align:center">Big Mart Store Sales Prediction</h1>
+
+    <div class="container my-3">
+        <form class="row g-4" action="/uploadFile" method="POST" enctype="multipart/form-data">
+            <div class="custom-file">
+                <label for="formFile" class="form-label"></label>
+                <input class="form-control" type="file" id="formFile" name="file" onchange="fileName()" required>
+            </div>
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                <button class="btn btn-outline-dark" type="submit">Upload</button>
+                <a href="/predict"><button class="btn btn-outline-success" type="button">Predict</button></a>
+            </div>
+        </form>
+        {% if not data['isError'] %}
+        <div class="alert alert-info my-3" role="alert">
+            {{ data['massage'] }}
+        </div>
+        {% endif %}
+        {% if data['isError'] %}
+        <div class="alert alert-danger my-3" role="alert">
+            {{ data['massage'] }}
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="container my-3">
+        <form class="row g-4" action="/manualDataEntry" method="POST">
+            <div class="col-md-4">
+                <label for="inputItem_Type" class="form-label">Item_Type</label>
+                <select id="inputItem_Type" class="form-select" name="Item_Type" required>
+                    <option selected>Choose...</option>
+                    <option>Dairy</option>
+                    <option>Soft Drinks</option>
+                    <option>Meat</option>
+                    <option>Fruits and Vegetables</option>
+                    <option>Household</option>
+                    <option>Baking Goods</option>
+                    <option>Snack Foods</option>
+                    <option>Frozen Foods</option>
+                    <option>Breakfast</option>
+                    <option>Health and Hygiene</option>
+                    <option>Hard Drinks</option>
+                    <option>Canned</option>
+                    <option>Breads</option>
+                    <option>Starchy Foods</option>
+                    <option>Others</option>
+                    <option>Seafood</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <label for="Item_Weight1" class="form-label">Item_Weight</label>
+                <input type="number" class="form-control" name="Item_Weight" id="Item_Weight1" required>
+            </div>
+            <div class="col-md-4">
+                <label for="inputItem_Fat_Content" class="form-label">Item_Fat_Content</label>
+                <select id="inputItem_Fat_Content" class="form-select" name="Item_Fat_Content" required>
+                    <option selected>Choose...</option>
+                    <option>Low Fat</option>
+                    <option>Regular</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <label for="Item_MRP1" class="form-label">Item_MRP</label>
+                <input type="number" class="form-control" id="Item_MRP1" name="Item_MRP" required>
+            </div>
+            <div class="col-md-4">
+                <label for="inputOutlet_Size" class="form-label">Outlet_Size</label>
+                <select id="inputOutlet_Size" class="form-select" name="Outlet_Size" required>
+                    <option selected>Choose...</option>
+                    <option>High</option>
+                    <option>Medium</option>
+                    <option>Small</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <label for="inputOutlet_Location_Type" class="form-label">Outlet_Location_Type</label>
+                <select id="inputOutlet_Location_Type" class="form-select" name="Outlet_Location_Type" required>
+                    <option >Choose...</option>
+                    <option>Tier 1</option>
+                    <option>Tier 2</option>
+                    <option>Tier 3</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <label for="inputOutlet_Type" class="form-label">Outlet_Type</label>
+                <select id="inputOutlet_Type" class="form-select" name="Outlet_Type" required>
+                    <option selected>Choose...</option>
+                    <option>Supermarket Type1</option>
+                    <option>Supermarket Type2</option>
+                    <option>Supermarket Type3</option>
+                    <option>Grocery Store</option>
+                </select>
+            </div>
+
+            <div class="col-md-4">
+                <label for="Year" class="form-label">Outlet_Establishment_Year(Only Year)</label>
+                <input type="number" class="form-control" id="Year" name="Outlet_Establishment_Year" pattern="\d{4}" maxlength="4" required >
+            </div>
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                <button class="btn btn-outline-dark" type="submit">Upload</button>
+                <a href="/predict"><button class="btn btn-outline-success" type="button">Predict</button></a>
+            </div>
+        </form>
+    </div>
+{% endblock body %}
