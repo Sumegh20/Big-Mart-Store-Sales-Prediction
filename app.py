@@ -27,7 +27,7 @@ def homePage():
     """
     try:
         dataValidationObject.deletePreviousInputFiles()
-
+        os.makedirs("Prediction_Files", exist_ok=True)
         return render_template('input.html', data={"massage": "Upload Your csv file or give the data manually",
                                                    "isError": False})
     except Exception as e:
@@ -48,9 +48,6 @@ def manualDataInput():
         # checking files in Prediction_Files folder
         if os.path.exists('Prediction_Files/*.csv') or len(os.listdir('Prediction_Files/')):
             dataValidationObject.deletePreviousInputFiles()
-
-        if not os.path.isdir('prediction_Files/'):
-            os.mkdir(f'prediction_Files/')
             
         if request.method == 'POST':
             # Take the data from HTML page
@@ -92,8 +89,6 @@ def uploadCSVfile():
         if os.path.exists('Prediction_Files/*.csv') or len(os.listdir('Prediction_Files/')):
             dataValidationObject.deletePreviousInputFiles()
             
-        if not os.path.isdir('prediction_Files/'):
-            os.mkdir(f'prediction_Files/')
 
         if request.method == 'POST':
             if request.files['file'] is not None:
