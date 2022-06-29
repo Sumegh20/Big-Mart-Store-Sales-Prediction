@@ -3,7 +3,6 @@ certifi==2020.6.20
 click==8.0.4
 colorama==0.4.4
 cycler==0.11.0
-dataclasses==0.8
 Flask==2.0.3
 Flask-Cors==3.0.10
 graphviz==0.19.1
