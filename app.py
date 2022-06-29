@@ -49,6 +49,9 @@ def manualDataInput():
         if os.path.exists('Prediction_Files/*.csv') or len(os.listdir('Prediction_Files/')):
             dataValidationObject.deletePreviousInputFiles()
 
+        if not os.path.isdir('prediction_Files/'):
+            os.mkdir(f'prediction_Files/')
+            
         if request.method == 'POST':
             # Take the data from HTML page
             manualData = request.form.to_dict(flat=False)
@@ -88,6 +91,9 @@ def uploadCSVfile():
         # checking files in Prediction_Files folder
         if os.path.exists('Prediction_Files/*.csv') or len(os.listdir('Prediction_Files/')):
             dataValidationObject.deletePreviousInputFiles()
+            
+        if not os.path.isdir('prediction_Files/'):
+            os.mkdir(f'prediction_Files/')
 
         if request.method == 'POST':
             if request.files['file'] is not None:
