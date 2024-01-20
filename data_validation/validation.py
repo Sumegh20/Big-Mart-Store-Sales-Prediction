@@ -16,7 +16,7 @@ class DataValidation:
         :return: Nothing
         """
         try:
-            if len(os.listdir('Prediction_Files/')):
+            if os.path.exists("Prediction_Files") and len(os.listdir('Prediction_Files/')):
                 filelist = glob.glob('Prediction_Files/*.csv')
                 for file in filelist:
                     os.remove(file)
