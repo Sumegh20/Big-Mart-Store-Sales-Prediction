@@ -1,4 +1,4 @@
-catboost==1.0.5
+catboost
 certifi==2020.6.20
 click==8.0.4
 colorama==0.4.4
