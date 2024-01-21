@@ -10,7 +10,7 @@ file = FileHandler()
 
 class DataPrediction:
     def __init__(self):
-        self.model = "models/Gradientboost_model.pickle"
+        self.model = "models/Gradientboost_model_2.pickle"#"models/Gradientboost_model.pickle"
 
     # As we transfrom our traget data y^0.3
     def tragetColumnTransformation(self, element):

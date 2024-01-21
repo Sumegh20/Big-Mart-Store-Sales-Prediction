@@ -10,8 +10,8 @@ fileObject = FileHandler()
 
 class DataPreprocessor:
     def __init__(self):
-        self.OneHot = "models/onehot_encoder.pickle"
-        self.MinMax = "models/minmax_transformation.pickle"
+        self.OneHot = "models/onehot_encoder_2.pickle" #"models/onehot_encoder.pickle"
+        self.MinMax = "models/minmax_transformation_2.pickle"#"models/minmax_transformation.pickle"
 
     # Feature Engineering
     def YeartoAge(self, data):
@@ -64,7 +64,7 @@ class DataPreprocessor:
             missingColumns = self.getMissingValueColumns(data)
             if len(missingColumns) > 0:
                 for i in missingColumns:
-                    data[i].fillna(MissingValueImputerDictionary[i], inplace=True)
+                    data[i].fillna(value=MissingValueImputerDictionary[i], inplace=True)
 
             return data
         except Exception as e:
