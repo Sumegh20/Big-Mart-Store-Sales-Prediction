@@ -81,13 +81,13 @@ Item_Outlet_Sales: Sales of the product in the particulat store. This is the out
 | Bag Linear Regression       | 0.684170          | 0.696787         |
 | Bag Decision Tree Regressor | 0.951230          | 0.665012         |
 | Bag KNN Regressor           | 0.751586          | 0.635977         |
-| Gradient Boosting           | 0.713710          | 0.710689         |
+| Gradient Boosting           | 0.713710          | 0.713226         |
 | XGBRegressor                | 0.716467          | 0.709214         |
-| Cat Boost Regressor         | 0.712288          | 0.713226         |
+| Cat Boost Regressor         | 0.712288          | 0.703626         |
 
 ## 🌟 Best Model
 
-Cat Boost Regressor with highest R2 score: 71.32 %
+Gradient Boost Regressor with highest R2 score: 71.32 %
 
 ## 👨‍💻 Render app Link
 
